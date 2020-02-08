@@ -1,0 +1,35 @@
+_repo: Par-la-faute-de-M-de-Balzac_61160
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maurois, André
+    aliases:
+    - Herzog, Emile Salomon Wilhelm
+    - Maurois, Andre
+    - Herzog, Émile Salomon Wilhelm
+    - André Maurois
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '34699'
+    url: http://www.gutenberg.org/2009/agents/34699
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Maurois
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Maurois
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2020-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61160'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Balzac, Honoré de, 1799-1850'
+- GITenberg
+title: Par la faute de M. de Balzac
+url: http://www.gutenberg.org/ebooks/61160
